@@ -196,19 +196,43 @@ cd catalyst-ai-agent
 
 ---
 
-## Create virtual environment
+## Create Virtual Environment
 
-### Windows
+### Windows (PowerShell)
+
+Create virtual environment:
 
 ```bash
 python -m venv venv
+```
+
+Activate virtual environment:
+
+```powershell
+.\venv\Scripts\Activate.ps1
+```
+
+---
+
+### Windows (Command Prompt)
+
+```cmd
 venv\Scripts\activate
 ```
 
-### Linux/Mac
+---
+
+### Linux / Mac
+
+Create virtual environment:
 
 ```bash
 python3 -m venv venv
+```
+
+Activate virtual environment:
+
+```bash
 source venv/bin/activate
 ```
 
