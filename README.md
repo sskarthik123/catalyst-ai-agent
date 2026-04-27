@@ -292,24 +292,16 @@ streamlit run app.py
 ✅ Learning roadmap  
 
 ---
+# Please follow the above mentioned steps to upload the resume and validate against JD and skill assessment.
 
+---
 # Demo Video
-
-Add your demo video link here
-
-Example:
-
-https://your-demo-link.com
+https://drive.google.com/file/d/1_kcvxfD0nzvx3zyqNviVNJwSKsBUv6Ms/view?usp=drive_link
 
 ---
 
 # Project URL
-
-Add deployed project link here
-
-OR mention:
-
-"Run locally using setup instructions above."
+https://github.com/sskarthik123/catalyst-ai-agent
 
 ---
 
